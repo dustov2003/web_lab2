@@ -73,6 +73,7 @@ body.dark-theme {
 .proj_link{
   text-decoration: none;
   text-align: initial;
+  color: var(--txt-color);
 }
 
 
