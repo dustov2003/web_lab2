@@ -202,5 +202,5 @@ body.dark-theme {
 .proj_name{
   display: flex;
   justify-content: center;
-
+  color: var(--txt-color);
 }
