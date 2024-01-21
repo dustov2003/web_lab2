@@ -3,7 +3,7 @@ name: Code Check
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   lint:
